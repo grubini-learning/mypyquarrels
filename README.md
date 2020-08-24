@@ -11,7 +11,7 @@
   7. DDEG  [CODE_v^](doubled/doubld.ipynb)
   8. MS    [CODE_v^](ms/ms.ipynb)
   9. 2SUM  [CODE_v^](2sum/2sum.ipynb)
-  10. PAR  [CODE_v^](partial_sort/port_sort.ipynb)
+  10. PAR  [CODE_v^](partition/part2.ipynb)
   11. HEA  [CODE_v^](bheap/bheap.ipynb)
   12. CC   [CODE_v^](fibonacci/fibonaccinumbers.ipynb)
   13. BFS  [CODE_v^](bfs/BFS.ipynb)
