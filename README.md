@@ -4,7 +4,7 @@
 
   1. FIBO  [CODE_v^](fibonacci/fibonaccinumbers.ipynb)
   2. BINS  [CODE_v^](binary_search/binarysearch.ipynb)
-  3. INS   [CODE_v^](in sort/insertion_sort.ipynb)
+  3. INS   [CODE_v^](ins sort/insertion_sort.ipynb)
   4. DEG   [CODE_v^](degree/degree2.ipynb)
   5. MAJ   [CODE_v^](majority_element/maj.ipynb)
   6. MER   [CODE_v^](merge_sort/merge_s.ipynb)
